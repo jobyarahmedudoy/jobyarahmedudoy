@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jobyar Ahmed</h1>
-<h3 align="center">A passionate Data Enthusiast & SQL/PLSQL Developer from Bangladesh</h3>
+<h3 align="center">A passionate Data Analysis and Data Science enthusiast from Bangladesh</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=jobyarahmedudoy&label=Profile%20views&color=0e75b6&style=flat" alt="jobyarahmedudoy" /> 
