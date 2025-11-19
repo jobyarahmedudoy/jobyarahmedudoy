@@ -6,7 +6,7 @@
 </p>
 
 - 🔭 I’m currently working on **Data Analytics & Visualization Projects**  
-- 🌱 I’m currently learning **Python for Data Science & Power BI Advanced**  
+- 🌱 I’m currently learning **Python for data analysis and data cleaning using popular Python libraries, as well as advancing my skills in Power BI**  
 - 👯 I’m looking to collaborate on **Data Dashboards, SQL Optimization, and ETL Projects**  
 - 👨‍💻 All of my projects are available at [https://jobyarahmedudoy.github.io/jobyarahmedudoy.insightlab.io/](https://jobyarahmedudoy.github.io/jobyarahmedudoy.insightlab.io/)  
 - 💬 Ask me about **SQL, PL/SQL, Oracle Database, Power BI, Excel**  
