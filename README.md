@@ -11,7 +11,8 @@
 - 👨‍💻 All of my Data Analysis projects are available at (https://github.com/jobyarahmedudoy/Data-Analysis-Projects)  
 - 💬 Ask me about **SQL, PL/SQL, Oracle Database, Power BI, Excel,Python**  
 - 📫 How to reach me **jobyarahmed2410@gmail.com**
-- - 🧾 [Portfolio](https://jobyarahmedudoy.github.io/jobyarahmedudoy.insightlab.io/) 
+- - 🧾 [Portfolio](https://jobyarahmedudoy.github.io/jobyarahmedudoy.insightlab.io/)
+- - 🧾 [Resume](https://drive.google.com/file/d/1h9q-ZQTGK4JINvnrGthkv8xKbQEiSdn9/view?usp=sharing) 
 
 ---
 
