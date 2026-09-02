@@ -12,7 +12,6 @@
 - 💬 Ask me about **SQL, PL/SQL, Oracle Database, Power BI, Excel,Python**  
 - 📫 How to reach me **jobyarahmed2410@gmail.com**
 - - 🧾 [Portfolio](https://jobyarahmedudoy.github.io/jobyarahmedudoy.insightlab.io/)
-- - 🧾 [Resume](https://drive.google.com/file/d/1QDH51Aaxx7AEuM3xMW76rC99E5Bm1KMM/view?usp=sharing) 
 
 ---
 
