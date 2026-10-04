@@ -4,7 +4,7 @@
 <div align="center">
 
 <a href="https://github.com/jobyarahmedudoy">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Data+Operations+Analyst+%40+Augmedix+(Commure);Turning+raw+data+into+business+insights;SQL+%7C+PostgreSQL+%7C+Power+BI+%7C+Python;Growing+into+Data+Analyst+%2F+Data+Scientist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Data+Operations+Analyst+%40+Augmedix+(Commure);Turning+raw+data+into+business+insights;SQL+%7C+PostgreSQL+%7C+Power+BI+%7C+Python+%7C+Retool;Growing+into+Data+Analyst+%2F+Data+Scientist" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -115,7 +115,7 @@ All my data analytics work lives in one repository, organized by tool. Explore t
 I'm always happy to talk about data, SQL, dashboards, or collaboration on data-driven projects.
 
 - 📫 **Email:** [jobyarahmed55@gmail.com](mailto:jobyarahmed55@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/jobyarahmedudoy](https://linkedin.com/in/jobyarahmedudoy)
+- 💼 **LinkedIn:** [linkedin.com/in/jobyarahmedudoy](https://linkedin.com/in/jobyarahmedudoy/)
 - 🧾 **Portfolio:** [jobyarahmedudoy.github.io](https://jobyarahmedudoy.github.io/jobyarahmedudoy.insightlab.io/)
 
 <div align="center">
