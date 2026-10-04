@@ -107,7 +107,7 @@ All my data analytics work lives in one repository, organized by tool. Explore t
 I'm always happy to talk about data, SQL, dashboards, or collaboration on data-driven projects.
 
 - 📫 **Email:** [jobyarahmed55@gmail.com](mailto:jobyarahmed55@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/jobyarahmedudoy](https://linkedin.com/in/jobyarahmedudoy)
+- 💼 **LinkedIn:** [linkedin.com/in/jobyarahmedudoy/](https://linkedin.com/in/jobyarahmedudoy/)
 - 🧾 **Portfolio:** [jobyarahmedudoy.github.io](https://jobyarahmedudoy.github.io/jobyarahmedudoy.insightlab.io/)
 
 <div align="center">
