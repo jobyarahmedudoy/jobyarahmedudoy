@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on **local or remote job opportunities focused on data analysis or business analysis, with companies—whether multinational or local—that value data-driven insights.**  
 - 👨‍💻 All of my Data Analysis projects are available at (https://github.com/jobyarahmedudoy/Data-Analysis-Projects)  
 - 💬 Ask me about **SQL, PL/SQL, Oracle Database, Power BI, Excel,Python**  
-- 📫 How to reach me **jobyarahmed2410@gmail.com**
+- 📫 How to reach me **jobyarahmed55@gmail.com**
 - - 🧾 [Portfolio](https://jobyarahmedudoy.github.io/jobyarahmedudoy.insightlab.io/)
 
 ---
