@@ -80,7 +80,7 @@ All my data analytics work lives in one repository, organized by tool. Explore t
 <a href="https://github.com/jobyarahmedudoy/Data-Analysis-Projects/tree/main/Power-BI-Projects"><img src="https://img.shields.io/badge/Power_BI_Projects-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI Projects" /></a>
 <a href="https://github.com/jobyarahmedudoy/Data-Analysis-Projects/tree/main/SQL-Projects"><img src="https://img.shields.io/badge/SQL_Projects-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL Projects" /></a>
 <a href="https://github.com/jobyarahmedudoy/Data-Analysis-Projects/tree/main/Excel-projects"><img src="https://img.shields.io/badge/Excel_Projects-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel Projects" /></a>
-<a href="https://github.com/jobyarahmedudoy/Data-Analysis-Projects/tree/main/Python-projects/Exploratory%20Data%20Analysis"><img src="https://img.shields.io/badge/Python_EDA-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python EDA" /></a>
+<a href="https://github.com/jobyarahmedudoy/Data-Analysis-Projects/tree/main/Python-projects"><img src="https://img.shields.io/badge/Python_EDA-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python EDA" /></a>
 
 </div>
 
